@@ -1,46 +1,76 @@
-# Hi, I'm Tariq (Dev. Doss) 👋
+# Hi, I'm Tariq Al-Dossary 👋
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Role-HR%20Operations%20Manager-F2A900?style=for-the-badge&logoColor=white" alt="Role" />
-  <img src="https://img.shields.io/badge/Location-Riyadh,%20Saudi%20Arabia-darkgray?style=for-the-badge&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Role-HR%20Manager%20%26%20Solutions%20Architect-FC8310?style=for-the-badge&logoColor=white" alt="HR Leader" />
+  <img src="https://img.shields.io/badge/Focus-Human%20Capital%20%2B%20Digital%20Workflows-black?style=for-the-badge&logoColor=white" alt="Focus" />
 </p>
 
 ---
 
-## 📌 Executive Summary
-I am a solutions-oriented **Human Resources leader** who approaches human capital management with a **developer's mindset**. I specialize in architecting custom digital workflows, eliminating data fragmentation, and building high-end workspace interfaces that bridge the gap between administrative operations and modern engineering. 
+## 🛠️ Human Resources × Software Engineering
 
-I believe that internal HR tools don't have to be clunky. By applying premium UI/UX standards, we can build tools that employees actually love to use.
+I am a solutions-oriented **Human Resources Leader** based in Saudi Arabia, blending strategic human capital management with a developer's execution model. I design and architect custom digital workflows, workspace hubs, and operational frameworks to eliminate data fragmentation, optimize performance, and elevate organizational efficiency.
 
----
-
-## 🛠️ The Tech Stack I Build With
-I leverage modern front-end technologies to design high-performance, fluid, and responsive digital workspaces.
-
-| Category | Technologies | Focus |
-| :--- | :--- | :--- |
-| **Frameworks** | `React` `Next.js` | Component-driven architecture & SEO-friendly portal rendering |
-| **Styling & UI** | `Tailwind CSS` | Premium Bento Grid layouts & glassmorphism interfaces |
-| **Motion & UX** | `GSAP` | High-end micro-interactions and smooth scroll/view animations |
+*   **Strategic HR:** Crafting robust compliance, attendance, and corporate governance policies that drive organizational alignment.
+*   **Engineering Edge:** Building modern, scalable web applications to automate manual workflows and create unified workplace ecosystems.
+*   **Design Philosophy:** Obsessed with premium, fluid UI/UX. I prefer moody, high-contrast monochrome layouts paired with vibrant selective color accents, Bento Grid structures, Glassmorphism, and seamless micro-interactions.
 
 ---
 
-## 🚀 Active Learning & Horizons
-To build even more robust, secure, and native full-stack enterprise ecosystems, I am actively expanding my toolkit into:
+## 💻 Tech & Creative Stack
 
-*   🐘 **Laravel** – For building robust, secure, and fast relational databases, employee portals, and secure API structures.
-*   📱 **Flutter** – For delivering fast, native cross-platform mobile apps so teams can manage operations on the go.
-*   ⚡ **Next.js (Deeper Dive)** – Masterclass routing, server components, and performance optimizations.
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🚀 Frontend & UI Engineering</h4>
+      <ul>
+        <li><strong>Frameworks:</strong> Next.js, React</li>
+        <li><strong>Styling:</strong> Tailwind CSS, CSS Modules</li>
+        <li><strong>Motion:</strong> GSAP (GreenSock), Framer Motion</li>
+        <li><strong>Design:</strong> Bento Grids, Glassmorphic UI</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏢 HR & Operations Systems</h4>
+      <ul>
+        <li><strong>Core HR:</strong> Employee Relations, Policy Architecture</li>
+        <li><strong>Automation:</strong> Workspace Hubs, Internal Portals</li>
+        <li><strong>Product Strategy:</strong> Technical PRDs, Agile Workflows</li>
+        <li><strong>Governance:</strong> Fingerprint & Attendance Systems</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## ⚡ Key Architectural Philosophies
-*   **Aesthetics Matter:** I prioritize clean layouts, moody high-contrast dark modes, and purposeful selective accent colors (like `#F2A900`) to elevate internal corporate software.
-*   **Data-Driven Workflows:** Eradicating paper and fragmented spreadsheets in favor of consolidated, interactive, and beautiful single-source dashboards.
-*   **Micro-Interactions:** Using subtle animations (via GSAP) to turn standard form completions, onboarding checklists, and task submissions into rewarding user experiences.
+## 🏗️ Active Architectures & Concepts
+
+*   **💼 Aura** – A hybrid workspace hub and centralized HR dashboard integrating data visualizers with collaborative, integrated note-taking spaces.
+*   **🛍️ GhostLet** – A hybrid e-commerce ecosystem utilizing clean code architectures, structured as a modern monorepo.
+*   **✨ Websiteable** – A landing page and product architecture concept designed with premium agency-grade aesthetics.
 
 ---
+
+## 📈 Activity & Contributions
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tariq-himself&show_icons=true&theme=dark&hide_border=true&icon_color=FC8310&title_color=FC8310&text_color=FFFFFF&bg_color=0D1117" alt="Tariq's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tariq-himself&theme=dark&hide_border=true&fire=FC8310&ring=FC8310&currStreakLabel=FC8310&background=0D1117" alt="Tariq's Streak Stats" width="48%" />
+</p>
+
+---
+
+## 🤝 Connect & Collaborate
+
+I am always open to discussing the intersection of human capital strategy, digital transformation, and modern frontend development.
+
+<p align="left">
+  <a href="https://linkedin.com/in/tariq-aldossary" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 <p align="center">
-  <sub>Let's build human-centric digital systems. Feel free to explore my repositories or reach out for collaboration!</sub>
+  <sub>"Architecting human potential through seamless digital experiences."</sub>
 </p>
