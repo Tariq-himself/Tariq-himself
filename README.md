@@ -1,4 +1,4 @@
-# Hi, I'm Tariq Al-Dossary 👋
+# Hello There, I'm Tariq 👋
 
 <p align="left">
   <img src="https://img.shields.io/badge/Role-HR%20Manager%20%26%20Solutions%20Architect-FC8310?style=for-the-badge&logoColor=white" alt="HR Leader" />
@@ -11,13 +11,30 @@
 
 I am a solutions-oriented **Human Resources Leader** based in Saudi Arabia, blending strategic human capital management with a developer's execution model. I design and architect custom digital workflows, workspace hubs, and operational frameworks to eliminate data fragmentation, optimize performance, and elevate organizational efficiency.
 
-*   **Strategic HR:** Crafting robust compliance, attendance, and corporate governance policies that drive organizational alignment.
-*   **Engineering Edge:** Building modern, scalable web applications to automate manual workflows and create unified workplace ecosystems.
-*   **Design Philosophy:** Obsessed with premium, fluid UI/UX. I prefer moody, high-contrast monochrome layouts paired with vibrant selective color accents, Bento Grid structures, Glassmorphism, and seamless micro-interactions.
+* **Strategic HR:** Crafting robust compliance, attendance, and corporate governance policies that drive organizational alignment.
+* **Engineering Edge:** Building modern, scalable web applications to automate manual workflows and create unified workplace ecosystems.
+* **Design Philosophy:** Obsessed with premium, fluid UI/UX. I prefer moody, high-contrast monochrome layouts paired with vibrant selective color accents, Bento Grid structures, Glassmorphism, and seamless micro-interactions.
 
 ---
 
 ## 💻 Tech & Creative Stack
+
+### 🚀 Frontend & UI Engineering
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,laravel,js,tailwindcss&theme=dark&perline=6" />
+  </a>
+</p>
+
+### 🎬 Motion & Design
+
+<p align="left">
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white&labelColor=0D1117" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white&labelColor=0D1117" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/Bento%20Grids-FF6B6B?style=for-the-badge&labelColor=0D1117" alt="Bento Grids" />
+  <img src="https://img.shields.io/badge/Glassmorphic%20UI-9B59B6?style=for-the-badge&labelColor=0D1117" alt="Glassmorphic UI" />
+</p>
 
 <table align="center" width="100%">
   <tr>
@@ -46,18 +63,16 @@ I am a solutions-oriented **Human Resources Leader** based in Saudi Arabia, blen
 
 ## 🏗️ Active Architectures & Concepts
 
-*   **💼 Aura** – A hybrid workspace hub and centralized HR dashboard integrating data visualizers with collaborative, integrated note-taking spaces.
-*   **🛍️ GhostLet** – A hybrid e-commerce ecosystem utilizing clean code architectures, structured as a modern monorepo.
-*   **✨ Websiteable** – A landing page and product architecture concept designed with premium agency-grade aesthetics.
+* **💼 Aura** – A hybrid workspace hub and centralized HR dashboard integrating data visualizers with collaborative, integrated note-taking spaces.
+* **🛍️ GhostLet** – A hybrid e-commerce ecosystem utilizing clean code architectures, structured as a modern monorepo.
+* **✨ Websiteable** – A landing page and product architecture concept designed with premium agency-grade aesthetics.
 
 ---
 
 ## 📈 Activity & Contributions
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tariq-himself&show_icons=true&theme=dark&hide_border=true&icon_color=FC8310&title_color=FC8310&text_color=FFFFFF&bg_color=0D1117" alt="Tariq's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tariq-himself&theme=dark&hide_border=true&fire=FC8310&ring=FC8310&currStreakLabel=FC8310&background=0D1117" alt="Tariq's Streak Stats" width="48%" />
-</p>
+![Tariq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tariq-himself&show_icons=true&theme=dark)
+![Tariq's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Tariq-himself&theme=dark)
 
 ---
 
@@ -65,12 +80,6 @@ I am a solutions-oriented **Human Resources Leader** based in Saudi Arabia, blen
 
 I am always open to discussing the intersection of human capital strategy, digital transformation, and modern frontend development.
 
-<p align="left">
-  <a href="https://linkedin.com/in/tariq-aldossary" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tariq-aldossary)
 
-<p align="center">
-  <sub>"Architecting human potential through seamless digital experiences."</sub>
-</p>
+> "Architecting human potential through seamless digital experiences."
