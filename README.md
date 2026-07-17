@@ -23,7 +23,7 @@ I am a solutions-oriented **Human Resources Leader** based in Saudi Arabia, blen
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,laravel,js,tailwindcss,flutter,docker,html,figma&theme=dark&perline=9" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,laravel,js,tailwindcss,flutter,docker,html,figma,vite,htmx&theme=dark&perline=11" />
   </a>
 </p>
 
@@ -43,7 +43,7 @@ I am a solutions-oriented **Human Resources Leader** based in Saudi Arabia, blen
       <ul>
         <li><strong>Frameworks:</strong> Next.js, React, Flutter</li>
         <li><strong>Styling:</strong> Tailwind CSS, CSS Modules</li>
-        <li><strong>Markup:</strong> HTML</li>
+        <li><strong>Markup:</strong> HTML, HTMX</li>         <li><strong>Build Tools:</strong> Vite, Vite+</li>
         <li><strong>Motion:</strong> GSAP (GreenSock), Framer Motion</li>
         <li><strong>Design:</strong> Bento Grids, Glassmorphic UI, Figma</li>
         <li><strong>DevOps:</strong> Docker, Laravel</li>
